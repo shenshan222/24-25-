@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/PekingUniversityMap">
+        <file>PKU.jpg</file>
+        <file>signal of PKU.png</file>
+        <file>nodes.txt</file>
+        <file>edges.txt</file>
+        <file>Red_Star.jpg</file>
+        <file>names.txt</file>
+        <file>images/1.jpg</file>
+        <file>images/2.jpeg</file>
+        <file>images/3.jpg</file>
+        <file>images/54.jpeg</file>
+        <file>images/54.jpg</file>
+        <file>images/baijiang.jpg</file>
+        <file>images/boyata.jpg</file>
+        <file>images/dongmen.jpg</file>
+        <file>images/dongnanmen.jpg</file>
+        <file>images/erti.jpeg</file>
+        <file>images/jiayuanshitang.jpg</file>
+        <file>images/li1.jpg</file>
+        <file>images/like.jpg</file>
+        <file>images/meifa.jpg</file>
+        <file>images/nanmen.jpg</file>
+        <file>images/nongyuan.jpg</file>
+        <file>images/qiudeba.jpeg</file>
+        <file>images/quanjia.jpg</file>
+        <file>images/shaoyuanshitang.png</file>
+        <file>images/shaozhong.jpeg</file>
+        <file>images/shengwubiaobenguan.jpeg</file>
+        <file>images/songlin.jpg</file>
+        <file>images/tongyuan.png</file>
+        <file>images/tushuguan.jpg</file>
+        <file>images/weiminghu.jpeg</file>
+        <file>images/wumei.jpg</file>
+        <file>images/xiaoshiguan.jpg</file>
+        <file>images/ximen.jpeg</file>
+        <file>images/xueyishitang.jpg</file>
+        <file>images/yannanshitang.jpg</file>
+        <file>images/yannanyuan.jpeg</file>
+        <file>images/yiti.jpeg</file>
+        <file>images/yiyuan.jpg</file>
+        <file>images/yiyuanshitang.png</file>
+        <file>images/zixingche.jpg</file>
+        <file>study.txt</file>
+        <file>images/wenshilou.jpeg</file>
+        <file>images/dixuelou.jpg</file>
+        <file>eat.txt</file>
+        <file>images/student5.jpg</file>
+        <file>click_nodes.txt</file>
+        <file>end_flag.jpg</file>
+        <file>start_flag.jpg</file>
+        <file>waypoint_flag.jpg</file>
+    </qresource>
+</RCC>

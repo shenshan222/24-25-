@@ -51,7 +51,10 @@
 
 ## 演示视频
 
-[点击观看演示视频](https://disk.pku.edu.cn/link/ARD46AAD22166E433BB87445A0F5CFED93)
+[点击观看演示视频](https://disk.pku.edu.cn/link/AA31C181FCE64949D3A996137C84F7ACF4
+文件名：111-演示.mp4
+有效期限：2025-07-30 23:45
+提取码：WKDT)
 
 ---
 
